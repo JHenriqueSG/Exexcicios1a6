@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\1A8Exercicios\1A8Exercicios\bin\Debug\1A8Exercicios.exe.config
+C:\Users\HP\source\repos\1A8Exercicios\1A8Exercicios\bin\Debug\1A8Exercicios.exe
+C:\Users\HP\source\repos\1A8Exercicios\1A8Exercicios\bin\Debug\1A8Exercicios.pdb
+C:\Users\HP\source\repos\1A8Exercicios\1A8Exercicios\obj\Debug\1A8Exercicios.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\1A8Exercicios\1A8Exercicios\obj\Debug\1A8Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\1A8Exercicios\1A8Exercicios\obj\Debug\1A8Exercicios.exe
+C:\Users\HP\source\repos\1A8Exercicios\1A8Exercicios\obj\Debug\1A8Exercicios.pdb
